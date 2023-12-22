@@ -1,16 +1,7 @@
 # login_api
 
-A new Flutter project.
+A new Flutter project. This is a simple login app SALAM UIN Bandung. Here we fetch data student from API.
 
-## Getting Started
+![WhatsApp Image 2023-12-22 at 22 03 03_fc27c1f1](https://github.com/dewianggitaa/login_api/assets/95553640/b6969fe7-8376-4983-871e-3ad05df2b806)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2023-12-22 at 22 03 03_f3b4581a](https://github.com/dewianggitaa/login_api/assets/95553640/39e5b184-70b9-463c-9364-6a2a5e2dc4d5)
